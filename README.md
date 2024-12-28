@@ -1,6 +1,6 @@
-# Machine-Learning-Bounce-Navigator
+# Obstacle Navigation Intelligent Pathfinding System
 
-This project is a Python machine-learning demonstration. Most of the project is displayed to the user through Python Turtle. 
+Most of the project is displayed to the user through Python Turtle. 
 
 An all-black ball, on the top left of the Turtle screen, is trying to reach a square all-green goal. However, there are obstacles which the user will create. These obstacles may block the ball’s path to the goal, but the ball must navigate through these obstacles to find a path to the goal. 
 
